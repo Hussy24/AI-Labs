@@ -1,4 +1,1 @@
-# Predict-Price-for-Gifts
-The online retailer wants to predict the prices of different packages for their special sale of gifts for the Good Friday event. They have provided data that is a combination of multiple categories and dates related to gifts. They want to use machine learning techniques to build a model that can predict the prices of the different packages.
-# Linear Regression
-Linear Regression can be used to model the relationship between the different features of the data provided by the online retailer and the prices of the different packages. Linear regression can help solve this problem by providing a model that can predict the prices of different packages based on the features of the data provided by the online retailer. The model can be trained on the data provided by the online retailer and then used to predict the prices of different packages for their special sale of gifts for the Good Friday event.
+# AI LABS
